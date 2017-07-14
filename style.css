@@ -1,0 +1,19 @@
+header {
+  height: 50px;
+  background: blue;
+  text-align: center;
+  color: gold;
+  font-family: monospace;
+}
+body{
+  background:aqua;
+}
+img {
+  height: 150px;
+  border: 3px solid gold;
+  
+}
+
+h3{
+  color: red;
+}
